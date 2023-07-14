@@ -1,0 +1,15 @@
+C:\Users\tarli\RiderProjects\fahrenheit-to-celsius\fahrenheitToCelsius\bin\Debug\net7.0\fahrenheitToCelsius.exe
+C:\Users\tarli\RiderProjects\fahrenheit-to-celsius\fahrenheitToCelsius\bin\Debug\net7.0\fahrenheitToCelsius.deps.json
+C:\Users\tarli\RiderProjects\fahrenheit-to-celsius\fahrenheitToCelsius\bin\Debug\net7.0\fahrenheitToCelsius.runtimeconfig.json
+C:\Users\tarli\RiderProjects\fahrenheit-to-celsius\fahrenheitToCelsius\bin\Debug\net7.0\fahrenheitToCelsius.dll
+C:\Users\tarli\RiderProjects\fahrenheit-to-celsius\fahrenheitToCelsius\bin\Debug\net7.0\fahrenheitToCelsius.pdb
+C:\Users\tarli\RiderProjects\fahrenheit-to-celsius\fahrenheitToCelsius\obj\Debug\net7.0\fahrenheitToCelsius.csproj.AssemblyReference.cache
+C:\Users\tarli\RiderProjects\fahrenheit-to-celsius\fahrenheitToCelsius\obj\Debug\net7.0\fahrenheitToCelsius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarli\RiderProjects\fahrenheit-to-celsius\fahrenheitToCelsius\obj\Debug\net7.0\fahrenheitToCelsius.AssemblyInfoInputs.cache
+C:\Users\tarli\RiderProjects\fahrenheit-to-celsius\fahrenheitToCelsius\obj\Debug\net7.0\fahrenheitToCelsius.AssemblyInfo.cs
+C:\Users\tarli\RiderProjects\fahrenheit-to-celsius\fahrenheitToCelsius\obj\Debug\net7.0\fahrenheitToCelsius.csproj.CoreCompileInputs.cache
+C:\Users\tarli\RiderProjects\fahrenheit-to-celsius\fahrenheitToCelsius\obj\Debug\net7.0\fahrenheitToCelsius.dll
+C:\Users\tarli\RiderProjects\fahrenheit-to-celsius\fahrenheitToCelsius\obj\Debug\net7.0\refint\fahrenheitToCelsius.dll
+C:\Users\tarli\RiderProjects\fahrenheit-to-celsius\fahrenheitToCelsius\obj\Debug\net7.0\fahrenheitToCelsius.pdb
+C:\Users\tarli\RiderProjects\fahrenheit-to-celsius\fahrenheitToCelsius\obj\Debug\net7.0\fahrenheitToCelsius.genruntimeconfig.cache
+C:\Users\tarli\RiderProjects\fahrenheit-to-celsius\fahrenheitToCelsius\obj\Debug\net7.0\ref\fahrenheitToCelsius.dll
